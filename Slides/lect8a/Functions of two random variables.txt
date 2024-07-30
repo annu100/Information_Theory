@@ -1,0 +1,10 @@
+Please try to solve for the distribution of r.v. Z as a function of two random variables X and Y.
+Z=X+Y
+Z=X-Y
+Z=X^2+Y^2
+Z=\sqrt{X^2+Y^2}
+Z=XY
+Z=x/Y
+Z=arctan(X/Y) (and possible other trignometric functions)
+Z=max(X,Y)
+Z=min(X,Y)

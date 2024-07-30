@@ -1,0 +1,10 @@
+Please try out derivation of the distributions for the following transformations of a random variable:
+- Y=aX+b (a,b are scalars)
+- Y=X^2
+- Y= Sin(X) (and other trignometric transformations)
+- Y=1/X
+- Y= |X|
+- Y= \sqrt{X}
+- Y= |X| U(X) (where, U(X) is unit step function)
+- Y=e^X
+- Y=log(X)
