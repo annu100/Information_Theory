@@ -1,0 +1,22 @@
+Please check out the CDF/PDF/PMF and kindly try to compute various statistics for the following distributions:
+
+1) Gaussian distribution
+2) Exponential Distribution
+3) Gamma Distribution
+4) Erlangian Distribution
+5) Chi-Square Distribution
+6) Rayleigh Distribution
+7) Rician Distribution
+8) Nakagami-m Distribution
+9) Uniform Distribution
+10) Beta Distribution
+11) Cauchy Distribution
+12) Laplace Distribution
+13) Maxwell Distribution
+14) Bernoulli Distribution  
+15) Binomial Distribution
+16) Poisson Distribution
+17) Geometric Distribution
+18) Negative Binomial Distribution
+19) Discrete Uniform Distribution
+20) Log-normal distribution
